@@ -1,1 +1,1 @@
-simple weater application for a 7 days forecast
+simple weather forecast application for 7 days 
